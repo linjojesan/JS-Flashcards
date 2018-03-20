@@ -12,13 +12,10 @@ blockquote {
   box-shadow: 2px 2px 10px black;
 }
 
-p {
+.define {
   display: none;
 }
 
-.active {
-  display: block;
-}
 
 h2 {
   text-align: center;
