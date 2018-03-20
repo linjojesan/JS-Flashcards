@@ -10,3 +10,7 @@ blockquote {
 .jumbotron {
   text-align: center;
 }
+
+p {
+  display: none;
+}
