@@ -14,3 +14,7 @@ blockquote {
 p {
   display: none;
 }
+
+.active {
+  display: block;
+}
